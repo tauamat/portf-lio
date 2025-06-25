@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou **Analista de Finanças Pleno**, graduado em **Ciências Contábeis**, com histórico profissional em empresas como Itaú Unibanco e Siemens. 
+Sou **Analista de Finanças**, graduado em **Ciências Contábeis**, com histórico profissional em empresas como Itaú Unibanco e Siemens. 
 Atualmente, estou em transição de carreira para **Engenharia de Dados** com foco em Finanças, combinando minha experiência com números, visão analítica e interesse crescente por tecnologia e inovação.
 
 ---
