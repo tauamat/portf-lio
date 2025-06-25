@@ -66,7 +66,7 @@ Atualmente, estou em transição de carreira para **Engenharia de Dados** com fo
 
 - E-mail: taua.oliveira@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/tauã-matheus
-- GitHub: https://github.com/tauamat/portf-lio
+- GitHub: https://github.com/tauamat/portfolio
   
 ---
 
